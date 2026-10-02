@@ -25,7 +25,7 @@ PostgreSQL • MySQL • MongoDB
 Git • GitHub • Postman • DBeaver • Eclipse • VS Code
 
 ### Currently Learning
-AWS • Linux • System Design • DSA
+Linux • System Design • DSA
 
 ---
 
@@ -58,7 +58,5 @@ Backend application built with Spring Boot and PostgreSQL.
 
 [LinkedIn](www.linkedin.com/in/balajisubash03/) •
 [Email](mailto:balaji.softwaredev@gmail.com)
-
----
 
 ⭐ Feel free to explore my repositories and projects.
