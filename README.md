@@ -26,7 +26,6 @@ Git • GitHub • Postman • DBeaver • Eclipse • VS Code
 ### Currently Learning
 Linux • System Design • DSA
 
----
 ## 🚀 Featured Projects
 
 ### 🔹 Sync Engine
@@ -41,7 +40,6 @@ Backend application built with Spring Boot and PostgreSQL.
 
 🔗 [View Repository](YOUR_REPO_LINK)
 
----
 ## 📚 What I'm Currently Working On
 
 - Building backend applications with Spring Boot
@@ -49,7 +47,6 @@ Backend application built with Spring Boot and PostgreSQL.
 - Improving DSA and problem-solving skills
 - Exploring AWS and cloud-native development
 
----
 ## 🤝 Connect With Me
 
 [LinkedIn](www.linkedin.com/in/balajisubash03/) •
