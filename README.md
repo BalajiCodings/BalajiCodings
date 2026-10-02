@@ -9,7 +9,6 @@ I enjoy working with APIs, databases, system design, and solving
 programming problems.
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -28,7 +27,6 @@ Git • GitHub • Postman • DBeaver • Eclipse • VS Code
 Linux • System Design • DSA
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 🔹 Sync Engine
@@ -44,7 +42,6 @@ Backend application built with Spring Boot and PostgreSQL.
 🔗 [View Repository](YOUR_REPO_LINK)
 
 ---
-
 ## 📚 What I'm Currently Working On
 
 - Building backend applications with Spring Boot
@@ -53,7 +50,6 @@ Backend application built with Spring Boot and PostgreSQL.
 - Exploring AWS and cloud-native development
 
 ---
-
 ## 🤝 Connect With Me
 
 [LinkedIn](www.linkedin.com/in/balajisubash03/) •
