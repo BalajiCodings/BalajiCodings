@@ -42,6 +42,7 @@ Backend application built with Spring Boot and PostgreSQL.
 - API documentation
 
 🔗 [View Repository](YOUR_REPO_LINK)
+
 ---
 
 ## 📚 What I'm Currently Working On
@@ -50,12 +51,6 @@ Backend application built with Spring Boot and PostgreSQL.
 - Learning system design and scalable backend architecture
 - Improving DSA and problem-solving skills
 - Exploring AWS and cloud-native development
-
----
-
-## 📊 GitHub
-
-![GitHub Stats](YOUR_STATS_IMAGE_URL)
 
 ---
 
