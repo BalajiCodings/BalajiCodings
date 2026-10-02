@@ -8,7 +8,6 @@ reliable, scalable, and maintainable backend systems.
 I enjoy working with APIs, databases, system design, and solving
 programming problems.
 
----
 ## 🛠️ Tech Stack
 
 ### Languages
